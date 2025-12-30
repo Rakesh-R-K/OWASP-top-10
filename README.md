@@ -1,6 +1,9 @@
 # OWASP Top 10 web app vulnerabilities 
 This is a day to day basis top web application vulnerabilities explored using OWASP top 10 SKF Linux Foundation course.
 
+## Course : Understanding the OWASP® Top 10 Security Threats (SKF100)
+## Course link : https://training.linuxfoundation.org/training/owasp-top-ten-security-threats-skf100/
+
 # Course Summary
 ## Broken Access Control
 In this module, we explored the risk of broken access control, which arises when restrictions on authenticated users are improperly enforced. Attackers can exploit these vulnerabilities to access unauthorized functionalities or data. We’ve seen how enforcing strict access control measures and principle of least privilege helps to mitigate such risks.
